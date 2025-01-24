@@ -1,16 +1,31 @@
-## Hi there 👋
+# Welcome to Nivedita Aggarwal's GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
-<!--
-**niveditaggarwal/niveditaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I am an undergraduate student at *Delhi Technological University (DTU)*, currently pursuing a *B.Tech in Computer Science and Engineering*. I am passionate about problem-solving, technology, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+
+- Data Structures and Algorithms (DSA)
+- Artificial Intelligence and Machine Learning 
+
+## 🌍 Where I'm From  
+I am based in New Delhi, India, and I thrive in diverse and challenging environments.  
+
+## 🛠️ Tech Stack
+
+
+### Programming & Tools:  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)]()  
+
+---
+
+## 📫 How to Reach Me
+
+- **GitHub**: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='20'>](https://github.com/nivedita)  
+- **LinkedIn**: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='20'>](https://www.linkedin.com/in/nivedita-aggarwal-9882772a0/)  
+- **Email**: [niveditaaggar@gmail.com](mailto:niveditaaggar@gmail.com)  
+
+---
+
+Feel free to connect with me or explore my repositories to see what I’ve been working on!
