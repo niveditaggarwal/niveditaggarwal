@@ -22,7 +22,7 @@ I am based in New Delhi, India, and I thrive in diverse and challenging environm
 
 ## 📫 How to Reach Me
 
-- **GitHub**: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='20'>](https://github.com/nivedita)  
+- **GitHub**: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='20'>](https://github.com/niveditaggarwal)  
 - **LinkedIn**: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='20'>](https://www.linkedin.com/in/nivedita-aggarwal-9882772a0/)  
 - **Email**: [niveditaaggar@gmail.com](mailto:niveditaaggar@gmail.com)  
 
